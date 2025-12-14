@@ -1,0 +1,2 @@
+KrishiDosti_Frontend --------> Contains Front End Application Developed using Flutter
+KrishiDosti_AI_Models -------> Contains all AI Models integrated in the project with code and Generated Model in it.

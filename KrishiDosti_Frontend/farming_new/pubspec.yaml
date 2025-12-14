@@ -1,0 +1,52 @@
+name: farming_new
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fl_chart: ^0.65.0
+  # Correct version for Flutter 3.38
+  tflite_flutter: ^0.10.4
+  google_maps_flutter: ^2.7.0
+
+  cupertino_icons: ^1.0.2
+  intl: ^0.19.0
+  get_storage: ^2.1.1
+  flutter_spinkit: ^5.2.0
+  shimmer: ^3.0.0
+  firebase_core: ^3.0.0
+  cloud_firestore: ^5.0.0
+  firebase_auth: ^5.1.0
+  firebase_database: ^11.0.0
+  image_picker: ^1.0.7
+  image: ^4.1.3
+
+
+  http: ^1.1.0
+  geolocator: ^12.0.0
+  get: ^4.6.6
+  geocoding: ^2.1.1
+
+  flutter_application_1: ^0.0.2
+  audioplayers: ^6.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/models/
+    - assets/icons/
+

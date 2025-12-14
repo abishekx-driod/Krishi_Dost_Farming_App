@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474737354940",
+    "project_id": "krishism1",
+    "storage_bucket": "krishism1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474737354940:android:c7b7b4e193bb91d62948b9",
+        "android_client_info": {
+          "package_name": "com.example.farming_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRPsoq-BOz_GTJEkp5iKwydka6TdtyzFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
